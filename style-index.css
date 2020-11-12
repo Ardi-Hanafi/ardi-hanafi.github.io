@@ -1,8 +1,13 @@
+
+#cek :hover{
+    opacity: 0.5;
+}
+
 *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
 }
 body{
     background-color: #f0f0f0;
@@ -10,9 +15,6 @@ body{
 .bg-top{
     position: absolute;
     width: 100%;
-}
-.cek :hover{
-    opacity: 0.5;
 }
 .logo-sosmed{
     position: absolute;
@@ -93,13 +95,7 @@ body{
     top: 758px;
 }
 
-.copyright{
-    background-color: #222222;
-    width: 100%;
-    height: 60px;
-    position: absolute;
-    top: 2160px;
-}    
+  
 .copy-text{
     font:"Open Sans";
     color: #efefef;
@@ -117,3 +113,121 @@ body{
     width: 100%;
     top: 1090px;
 }
+.text2{
+    font: 'sans-serif';
+    font-size: 22px;
+    position: absolute;
+    text-align: center;
+    color: #6d6d6d;
+    width: 100%;
+    top: 1150px;
+}
+.text3{
+    font: 'sans-serif';
+    font-size: 22px;
+    position: absolute;
+    text-align: center;
+    color: #6d6d6d;
+    width: 100%;
+    top: 1180px;
+}
+.text4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+    position: absolute;
+    text-align: left;
+    color: #ad2300;
+    width: 40%;
+    top: 1250px;
+    left: 7%;
+}
+.text5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+    position: absolute;
+    text-align: left;
+    color: #ad2300;
+    width: 40%;
+    top: 1250px;
+    left: 53%;
+}
+.text-link :hover{
+    color: cadetblue;
+}
+.kiri{
+    position: absolute;
+    max-width: 40%;
+    top: 1500px;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+.kanan{
+    position: absolute;
+    max-width: 40%;
+    top: 1500px;
+    left: 73%;
+    transform: translate(-50%, -50%);
+}
+.gambar :hover{
+    max-width: 42%;
+}
+.facebook{
+    position: absolute;
+    width: 50%;
+    top: 1740px;
+    left: 0%;
+    height: 500px;
+    background-color: #4545db;
+}
+.icon-fb{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    widows: 30%;
+    border-radius: 100px;
+    transform: translate(-50%, -50%);
+}
+.text-fb{
+    position: absolute;
+    font-family: "Crete Round";
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text-fb2{
+    position: absolute;
+    font-family: "Crete Round";
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.catchup{
+    position: absolute;
+    width: 50%;
+    top: 1740px;
+    left: 50%;
+    height: 500px;
+    background-color: #000000;
+}
+
+
+
+
+
+
+.copyright{
+    background-color: #222222;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    top: 2600px;
+}  
