@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+}
+
+.atas{
+    background: #303030;
+    height: 60%;
+    width: 100%;
+    border-bottom: 15px solid #f24804;
+}
+.logo-sosmed{
+    position: absolute;
+    transform: perspective(-50%,-50%);
+    right: 30px;
+    margin-top: 20px;
+}
+.fb{
+    max-height: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.ig{
+    max-height: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.tw{
+    max-height: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.yt{
+    max-height: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.logo-top{
+    position: absolute;
+    transform: perspective(-50%,-50%);
+    left: 47%;
+    margin-top: 40px;
+}
+.home {
+    font-size: 15px;
+    position: absolute;
+    left: 30%;
+    color: white;
+    margin-top: 70px;
+}
+.apply{
+    font-size: 15px;
+    position: absolute;
+    left: 35%;
+    color: white;
+    margin-top: 70px;
+}
+.judges{
+    font-size: 15px;
+    position: absolute;
+    left: 40%;
+    color: white;
+    margin-top: 70px;
+}
+.about{
+    font-size: 15px;
+    position: absolute;
+    left: 55%;
+    color: white;
+    margin-top: 70px;
+}
+.store{
+    font-size: 15px;
+    position: absolute;
+    left: 60%;
+    color: white;
+    margin-top: 70px;
+}
+.menu-top :hover{
+    opacity: 0.8;
+}
+
+.textatas{
+    font-family: 'Crete Round', sans-serif;
+}
+ #judge{
+    color: #fec00f;
+    text-align: center;
+    left: 47%;
+    position: absolute;
+    font-size: 36px;
+    top: 28% ;
+}
+
+#garis{
+    position: absolute;
+    background: #ffffff;
+    height: 0.25%;
+    width: 80%;
+    top: 38%;
+    left: 10%;
+}
+
+#desc_jug{
+    font-family: 'Slabo 27px', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    top: 39%;
+    position: absolute;
+    padding: 2%;
+    font-size: 22px;
+    
+}
