@@ -4,7 +4,7 @@
 
 .atas{
     background: #303030;
-    height: 60%;
+    height: 65%;
     width: 100%;
     border-bottom: 15px solid #f24804;
 }
@@ -104,7 +104,7 @@
     font-family: 'Slabo 27px', sans-serif;
     color: #ffffff;
     text-align: center;
-    top: 39%;
+    top: 37%;
     position: absolute;
     padding: 2%;
     font-size: 22px;
@@ -118,8 +118,13 @@
     height: 80%;
 }
 
-.bgjudge1{
-    left: 10%;
-    top: 90%;
+#bgjudge1{
+    box-sizing: border-box;
+    padding: 80px 40px;
     position: absolute;
+}
+
+.row {
+    margin: 2%;
+    border: transparent;
 }
