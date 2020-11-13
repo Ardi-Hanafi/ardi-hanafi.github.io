@@ -133,8 +133,44 @@
 }
 
 
-.bawah{
+.footer{
     background: #303030;
     height: 50%;
     width: 100%;
+    padding: 72px 0 52px;
+    
+}
+
+#logoftr1{
+    right: 10%;
+    position: absolute;
+}
+
+#linkbwh1, #linkbwh2, #linkbwh3, #linkbwh4, #linkbwh5 {color: #fec00f;}
+    
+
+#linkbwh1{
+    left: 10%;
+    position: absolute;
+}
+
+#linkbwh2{
+    left: 20%;
+    position: absolute;
+}
+
+#linkbwh3{
+    left: 20%;
+    bottom: 5%;
+    position: absolute;
+}
+
+#linkbwh4{
+    left: 30%;
+    bottom: 6%;
+    position: absolute;
+}
+
+#linkbwh5{
+    
 }
