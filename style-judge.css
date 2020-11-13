@@ -118,13 +118,23 @@
     height: 80%;
 }
 
-#bgjudge1{
-    box-sizing: border-box;
-    padding: 80px 40px;
-    position: absolute;
+.tengah{
+    background: #fcfcfc;
+    font-family:'Slabo 27px', sans-serif;
+    font-size: 22px;
+    color: #403f38;
+    line-height: 26px;
+    font-weight: 300;
 }
 
 .row {
     margin: 2%;
-    border: transparent;
+    
+}
+
+
+.bawah{
+    background: #303030;
+    height: 50%;
+    width: 100%;
 }
